@@ -1,0 +1,31 @@
+_repo: The-Art-of-Invigorating-and-Prolonging-Lifeand-Strengthen-the-Action-of-the-Stomach-and-Bowel__40891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kitchiner, William
+    alias: Kitchiner, W. (William)
+    deathdate: 1827
+    gutenberg_agent_id: '33482'
+    url: http://www.gutenberg.org/2009/agents/33482
+description: ''
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Digestion'
+- !lcc 'RA'
+- !lcsh 'Hygiene'
+- !lcsh 'Diet'
+title: "The Art of Invigorating and Prolonging Life\r\nBy Food, Clothes, Air, Exercise,\
+  \ Wine, Sleep, &c. and Peptic Precepts, Pointing Out Agreeable and Effectual Methods\
+  \ to Prevent and Relieve Indigestion, and to Regulate and Strengthen the Action\
+  \ of the Stomach and Bowels"
+url: http://www.gutenberg.org/ebooks/40891
