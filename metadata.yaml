@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33482'
     url: http://www.gutenberg.org/2009/agents/33482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40891#The-Art-of-Invigorating-and-Prolonging-Lifeand-Strengthen-the-Action-of-the-Stomach-and-Bowel_
 gutenberg_issued: '2012-09-28'
 gutenberg_type: Text
 identifiers:
